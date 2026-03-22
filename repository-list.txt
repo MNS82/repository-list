@@ -1,0 +1,5 @@
+https://github.com/MNS82/repo1.git
+https://github.com/MNS82/repo2.git
+https://github.com/MNS82/repo3.git
+https://github.com/MNS82/repo4.git
+https://github.com/MNS82/repo5.git
